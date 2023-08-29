@@ -7,6 +7,6 @@ In this repository we can find Three BT problem solver:
 
 *Knight_Jorney : In this you could imagine an 8x8 chess board and the most unique piece in chess "the knight" which can only move in a "L" shape. The porpouse of this algorithms is to know, from a starting point, the order of steps needed to cover all the titles in the board only once!!. This was the most fun project of these ones.  
 
-*Soduko_solver: This is easier to image, you introduce a solvable sudoku problem and this algorithm provides you with an answer. For me this was the most difficult algorithm because I had to find a way to validate that the input was valid by the sudoku rules. 
+*Sudoku_solver: This is easier to image, you introduce a solvable sudoku problem and this algorithm provides you with an answer. For me this was the most difficult algorithm because I had to find a way to validate that the input was valid by the sudoku rules. 
 
 All of the programs have its own notes, thank you for reading.
